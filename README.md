@@ -1,0 +1,2 @@
+# djangotrial
+djanoglearn
